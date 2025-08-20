@@ -67,7 +67,7 @@
 ### 📊 Статистика мого GitHub
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-Chili&show_icons=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-Chili&show_icons=true&theme=default&count_private=true&hide=contribs" />
 </a>
 
 ---
