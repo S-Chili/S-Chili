@@ -70,6 +70,7 @@
 ---
 
 ### 📊 Статистика мого GitHub
+[![All Commits](https://github-readme-stats.vercel.app/api?username=S-Chili&show_icons=true&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-Chili&show_icons=true&theme=default&count_private=true&hide=contribs" />
