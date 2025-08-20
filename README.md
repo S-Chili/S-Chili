@@ -63,6 +63,11 @@
 </table>
 
 ---
+### 🏆 Найбільш використані мови програмування мого GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Chili&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### 📊 Статистика мого GitHub
 
