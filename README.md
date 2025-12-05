@@ -66,14 +66,18 @@
 
 <div align="center">
 
-### My GitHub Performance
+### 🏆 Найбільш використані мови програмування мого GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-Chili&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&cache_seconds=1800" />
+![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=S-Chili&layout=compact&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Chili&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
-</div>
+---
 
+### 📊 Статистика мого GitHub
+
+![GitHub Stats](https://readme-stats.clckblog.space/api?username=S-Chili&show_icons=true&theme=tokyonight)
+
+---
 
 ### 📫 Зв'язатися зі мною
 
