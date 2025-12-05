@@ -66,23 +66,6 @@
 
 <div align="center">
 
-### 🏆 Найбільш використані мови програмування мого GitHub
-
-<p align="center">
-  <img 
-    src="https://readme-stats.clckblog.space/api/top-langs/?username=S-Chili&layout=compact&theme=tokyonight&langs_count=8" 
-    alt="Top Langs" 
-  />
-</p>
-
----
-
-### 📊 Статистика мого GitHub
-
-![GitHub Stats](https://readme-stats.clckblog.space/api?username=S-Chili&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Зв'язатися зі мною
 
 <a href="mailto:schili@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
