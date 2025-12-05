@@ -68,8 +68,7 @@
 
 ### 🏆 Найбільш використані мови програмування мого GitHub
 
-![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=S-Chili&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-git-master-org-username.vercel.app/api/top-langs/?username=S-Chili)
 
 ---
 
