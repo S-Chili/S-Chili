@@ -64,18 +64,16 @@
 
 ---
 
-### 🏆 Найбільш використані мови програмування мого GitHub
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Chili&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&cache_seconds=1800)
+### My GitHub Performance
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-Chili&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&cache_seconds=1800" />
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Chili&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
-### 📊 Статистика мого GitHub
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Chili&layout=donut-vertical&theme=tokyonight&cache_seconds=1800)
-
----
 
 ### 📫 Зв'язатися зі мною
 
